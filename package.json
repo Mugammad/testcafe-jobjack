@@ -1,0 +1,16 @@
+{
+  "name": "jobjack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-e2e": "testcafe edge test.e2e.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "testcafe": "^1.19.0"
+  }
+}
